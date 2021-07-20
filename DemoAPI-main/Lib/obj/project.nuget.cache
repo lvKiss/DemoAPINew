@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyWLxwXzPzhoguCZO5QLxgSdAgPNckrgR6JqX+4R/98oReI+Z+9jCImDSCxUju7RqXoDp65aV9/TO17vTdumpg==",
+  "success": true,
+  "projectFilePath": "D:\\DemoAPINew\\DemoAPI-main\\Lib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.3\\microsoft.aspnet.identity.entityframework.2.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
